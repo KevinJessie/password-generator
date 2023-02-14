@@ -3,8 +3,8 @@ var characterlength = 8;
 var choiceArr = [];
 var specialCharacter = ['/','!','$','%','*'];
 var UpperCaseArr = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'];
-var LowerCaseArr = ["abcdefghijklmnopqrstuvwxyz"];
-var numberArr = ['0123456789'];
+var LowerCaseArr = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'];
+var numberArr = ['0','1','2','3','4','5','6','7','8','9'];
 
  // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
